@@ -99,5 +99,3 @@ Nommage
 - Suivez la convention CamelCase pour les noms de classes.
 - Ajoutez des commentaires explicatifs lorsque nécessaire pour expliquer des sections complexes ou des décisions de conception.
 
-### Contributions
-Les contributions sont les bienvenues! Veuillez consulter le fichier CONTRIBUTING.md pour plus d'informations sur la manière de contribuer au projet.
